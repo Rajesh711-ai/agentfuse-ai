@@ -1,0 +1,6 @@
+{
+  "name": "AgentFuse AI",
+  "description": "Interactive cybersecurity platform for modeling interconnected AI agents, analyzing dangerous permission combinations, discovering attack paths, and computing minimum-cost remediations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
